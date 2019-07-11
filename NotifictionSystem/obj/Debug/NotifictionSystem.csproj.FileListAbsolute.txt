@@ -1,0 +1,14 @@
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\NotifictionSystem\bin\Debug\NotifictionSystem.exe.config
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\NotifictionSystem\bin\Debug\NotifictionSystem.exe
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\NotifictionSystem\bin\Debug\NotifictionSystem.pdb
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\NotifictionSystem\bin\Debug\Entities.dll
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\NotifictionSystem\bin\Debug\log4net.dll
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\NotifictionSystem\bin\Debug\NetJSON.dll
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\NotifictionSystem\bin\Debug\Entities.pdb
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\NotifictionSystem\bin\Debug\log4net.xml
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\NotifictionSystem\bin\Debug\NetJSON.xml
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\NotifictionSystem\obj\Debug\NotifictionSystem.csprojAssemblyReference.cache
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\NotifictionSystem\obj\Debug\NotifictionSystem.csproj.CoreCompileInputs.cache
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\NotifictionSystem\obj\Debug\NotifictionSystem.csproj.CopyComplete
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\NotifictionSystem\obj\Debug\NotifictionSystem.exe
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\NotifictionSystem\obj\Debug\NotifictionSystem.pdb

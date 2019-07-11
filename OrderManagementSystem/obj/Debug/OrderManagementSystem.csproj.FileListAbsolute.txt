@@ -1,0 +1,15 @@
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe.config
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\OrderManagementSystem\bin\Debug\OrderManagementSystem.pdb
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\OrderManagementSystem\bin\Debug\Entities.dll
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\OrderManagementSystem\bin\Debug\NetJSON.dll
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\OrderManagementSystem\bin\Debug\Entities.pdb
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\OrderManagementSystem\bin\Debug\MessagingQueueService.pdb
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\OrderManagementSystem\bin\Debug\NetJSON.xml
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.csprojAssemblyReference.cache
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.csproj.CopyComplete
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.exe
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\OrderManagementSystem\obj\Debug\OrderManagementSystem.pdb
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\OrderManagementSystem\bin\Debug\MessagingQueueService.dll
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\OrderManagementSystem\bin\Debug\MessagingQueueService.dll.config

@@ -1,0 +1,9 @@
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\Entities\bin\Debug\Entities.dll
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\Entities\bin\Debug\Entities.pdb
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\Entities\bin\Debug\NetJSON.dll
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\Entities\bin\Debug\NetJSON.xml
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\Entities\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\Entities\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\Entities\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\Entities\obj\Debug\Entities.dll
+C:\Users\sohan\Documents\Visual Studio 2017\Projects\NotifictionSystem\Entities\obj\Debug\Entities.pdb
